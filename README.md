@@ -12,7 +12,7 @@ Two executables are NOT included:
 
 - oscdimg.exe (it is part of the Windows ADK:
   <https://learn.microsoft.com/fr-fr/windows-hardware/get-started/adk-install#download-the-adk-for-windows-11-version-22h2>.
-  It is used to create bootable ISO images.
+  It is used to create bootable ISO images. (you should get it yourself)
 - WindowsIsoDownloader.exe (you can find the source code and build it if you
   want: <https://github.com/ianis58/WindowsIsoDownloader>) (not directly
   included, but is downloaded by the PowerShell script).
